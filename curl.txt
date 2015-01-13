@@ -1,0 +1,2 @@
+curl –request GET ‘http://simplebits.com’ > curl_output/simplebits.txt
+curl -X PUT -H 'Content-Type: application/json' -d '{"firstName":"Kris", "lastName":"Jordan"}' echo.httpkit.com > curl_output/httpkit.txt
